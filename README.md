@@ -1,1 +1,1 @@
-# uniqlo-sale-watcher
+# Catalogue-Pulse
