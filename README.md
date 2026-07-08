@@ -1,0 +1,1 @@
+# uniqlo-sale-watcher
