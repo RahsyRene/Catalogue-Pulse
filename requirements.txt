@@ -1,0 +1,2 @@
+requests==2.32.4
+uniqlo-sales-alerter @ git+https://github.com/kequach/uniqlo-sales-alerter.git@25f63ed17be986713cdf1f27be29b27fa60ee971

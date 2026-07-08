@@ -1,0 +1,90 @@
+{
+  "sizes": [
+    "S",
+    "M",
+    "L"
+  ],
+  "price_limits_eur": {
+    "tops": 20,
+    "pants": 30,
+    "jackets": 70
+  },
+  "category_keywords": {
+    "tops": [
+      "T-Shirt",
+      "Langarmshirt",
+      "Hemd",
+      "Poloshirt",
+      "Polo",
+      "Hoodie",
+      "Kapuzenpullover",
+      "Sweatshirt",
+      "Pullover",
+      "Strick",
+      "Cardigan",
+      "Fleece"
+    ],
+    "pants": [
+      "Hose",
+      "Jeans",
+      "Chino",
+      "Jogginghose",
+      "Cargohose",
+      "Jogger",
+      "Bundfaltenhose"
+    ],
+    "jackets": [
+      "Jacke",
+      "Overshirt",
+      "Mantel",
+      "Parka",
+      "Blouson",
+      "Hemdjacke",
+      "Windbreaker",
+      "Bomber"
+    ]
+  },
+  "excluded_general": [
+    "Socken",
+    "Unterwäsche",
+    "Boxershorts",
+    "Slip",
+    "Trunks",
+    "Tasche",
+    "Rucksack",
+    "Shorts"
+  ],
+  "excluded_pants": [
+    "Slim Fit",
+    "Slim-Fit",
+    "Skinny Fit"
+  ],
+  "excluded_tshirts": [
+    "UT",
+    "Grafik",
+    "Graphic",
+    "Manga",
+    "Anime",
+    "Gaming",
+    "Kollaboration",
+    "Collaboration",
+    "Collab",
+    "PEANUTS",
+    "Super Mario",
+    "TOYOTA",
+    "Pokémon",
+    "Pokemon",
+    "Disney",
+    "One Piece",
+    "Dragon Ball",
+    "Naruto",
+    "BLUELOCK",
+    "Shueisha",
+    "Marvel",
+    "Star Wars"
+  ],
+  "health": {
+    "minimum_first_scan": 5,
+    "minimum_previous_ratio": 0.25
+  }
+}
