@@ -2,7 +2,7 @@
   "initialized": true,
   "last_error": {
     "message": "RuntimeError: Sale product count dropped unexpectedly from 411 to 0 (safety floor: 102)",
-    "sent_at": "2026-08-22T08:05:26.369848+00:00"
+    "sent_at": "2026-08-22T14:10:30.256352+00:00"
   },
   "last_scan_count": 411,
   "last_success_date": "2026-08-20",
