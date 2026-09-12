@@ -1,7 +1,7 @@
 {
   "initialized": true,
   "last_error": {},
-  "last_scan_count": 385,
+  "last_scan_count": 392,
   "last_success_date": "2026-09-12",
   "products": {
     "E422992-000": {
@@ -52,19 +52,19 @@
       "url": "https://www.uniqlo.com/de/de/products/E450259-000/01?colorDisplayCode=69&sizeDisplayCode=004"
     },
     "E450260-000": {
-      "active": false,
+      "active": true,
       "category": "tops",
       "discount": 57.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/450260/item/eugoods_69_450260_3x4.jpg",
-      "last_seen": "2026-09-12T05:45:47.022334+00:00",
+      "last_seen": "2026-09-12T09:20:46.567789+00:00",
       "name": "Hemd (Regular Fit, Button-Down-Kragen)",
       "original_price": 34.9,
       "price": 14.9,
       "product_id": "E450260-000",
       "sizes": [
-        "S"
+        "L"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E450260-000/00?colorDisplayCode=69&sizeDisplayCode=003"
+      "url": "https://www.uniqlo.com/de/de/products/E450260-000/00?colorDisplayCode=00&sizeDisplayCode=005"
     },
     "E450535-000": {
       "active": false,
@@ -236,22 +236,23 @@
       "category": "tops",
       "discount": 63.0,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/462369/item/eugoods_41_462369_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611029+00:00",
+      "last_seen": "2026-09-12T09:20:46.567530+00:00",
       "name": "Oxford Hemd (Slim Fit, gestreift)",
       "original_price": 34.9,
       "price": 12.9,
       "product_id": "E462369-000",
       "sizes": [
+        "S",
         "L"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E462369-000/01?colorDisplayCode=41&sizeDisplayCode=005"
+      "url": "https://www.uniqlo.com/de/de/products/E462369-000/01?colorDisplayCode=41&sizeDisplayCode=003"
     },
     "E462429-000": {
-      "active": false,
+      "active": true,
       "category": "pants",
       "discount": 74.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/462429/item/eugoods_57_462429_3x4.jpg",
-      "last_seen": "2026-09-12T07:50:49.781437+00:00",
+      "last_seen": "2026-09-12T09:20:46.567352+00:00",
       "name": "Bundfaltenhose (Wide Fit, lang)",
       "original_price": 49.9,
       "price": 12.9,
@@ -551,7 +552,7 @@
       "category": "tops",
       "discount": 57.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/477181/item/eugoods_14_477181_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611262+00:00",
+      "last_seen": "2026-09-12T09:20:46.567777+00:00",
       "name": "Baumwolle Leinen Hemd (Kurzarm, gestreift)",
       "original_price": 34.9,
       "price": 14.9,
@@ -628,13 +629,14 @@
       "category": "jackets",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/478230/item/eugoods_30_478230_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611358+00:00",
+      "last_seen": "2026-09-12T09:20:46.567949+00:00",
       "name": "Blouson (kurz)",
       "original_price": 79.9,
       "price": 39.9,
       "product_id": "E478230-000",
       "sizes": [
-        "M"
+        "M",
+        "L"
       ],
       "url": "https://www.uniqlo.com/de/de/products/E478230-000/00?colorDisplayCode=34&sizeDisplayCode=004"
     },
@@ -763,7 +765,7 @@
       "category": "pants",
       "discount": 67.7,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/479360/item/eugoods_32_479360_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.610992+00:00",
+      "last_seen": "2026-09-12T09:20:46.567497+00:00",
       "name": "SMART 7/8 Hose (Baumwolle)",
       "original_price": 39.9,
       "price": 12.9,
@@ -823,7 +825,7 @@
       "category": "jackets",
       "discount": 14.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/479755/item/eugoods_69_479755_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611644+00:00",
+      "last_seen": "2026-09-12T09:20:46.568253+00:00",
       "name": "PUFFERTECH Jacke",
       "original_price": 69.9,
       "price": 59.9,
@@ -855,7 +857,7 @@
       "category": "tops",
       "discount": 57.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/480764/item/eugoods_13_480764_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611247+00:00",
+      "last_seen": "2026-09-12T09:20:46.567763+00:00",
       "name": "Hemd (Regular Fit, Button-Down-Kragen, gestreift)",
       "original_price": 34.9,
       "price": 14.9,
@@ -866,11 +868,11 @@
       "url": "https://www.uniqlo.com/de/de/products/E480764-000/00?colorDisplayCode=13&sizeDisplayCode=003"
     },
     "E480773-000": {
-      "active": false,
+      "active": true,
       "category": "tops",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/480773/item/eugoods_05_480773_3x4.jpg",
-      "last_seen": "2026-09-11T21:05:43.110469+00:00",
+      "last_seen": "2026-09-12T09:20:46.567915+00:00",
       "name": "Flanell Hemd (Kent-Kragen)",
       "original_price": 39.9,
       "price": 19.9,
@@ -1022,7 +1024,7 @@
       "category": "tops",
       "discount": 35.2,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482299/item/eugoods_14_482299_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611529+00:00",
+      "last_seen": "2026-09-12T09:20:46.568128+00:00",
       "name": "DRY-EX T-Shirt",
       "original_price": 19.9,
       "price": 12.9,
@@ -1069,7 +1071,7 @@
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482304/item/eugoods_63_482304_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611623+00:00",
+      "last_seen": "2026-09-12T09:20:46.568219+00:00",
       "name": "DRY Piqué Poloshirt",
       "original_price": 29.9,
       "price": 19.9,
@@ -1086,7 +1088,7 @@
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482305/item/eugoods_53_482305_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611608+00:00",
+      "last_seen": "2026-09-12T09:20:46.568204+00:00",
       "name": "DRY-EX Poloshirt",
       "original_price": 29.9,
       "price": 19.9,
@@ -1099,17 +1101,18 @@
       "url": "https://www.uniqlo.com/de/de/products/E482305-000/00?colorDisplayCode=00&sizeDisplayCode=003"
     },
     "E482321-000": {
-      "active": false,
+      "active": true,
       "category": "tops",
       "discount": 60.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482321/item/eugoods_62_482321_3x4.jpg",
-      "last_seen": "2026-09-11T17:10:58.444921+00:00",
+      "last_seen": "2026-09-12T09:20:46.567665+00:00",
       "name": "3D Knit Pullover (nahtlos, maschinenwaschbar, Rundhals)",
       "original_price": 49.9,
       "price": 19.9,
       "product_id": "E482321-000",
       "sizes": [
-        "S"
+        "S",
+        "L"
       ],
       "url": "https://www.uniqlo.com/de/de/products/E482321-000/01?colorDisplayCode=65&sizeDisplayCode=003"
     },
@@ -1163,7 +1166,7 @@
       "category": "tops",
       "discount": 57.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482461/item/eugoods_63_482461_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611233+00:00",
+      "last_seen": "2026-09-12T09:20:46.567749+00:00",
       "name": "Hemd (Regular Fit, Button-Down-Kragen, kariert)",
       "original_price": 34.9,
       "price": 14.9,
@@ -1238,7 +1241,7 @@
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482481/item/eugoods_06_482481_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.610942+00:00",
+      "last_seen": "2026-09-12T09:20:46.567446+00:00",
       "name": "Hemd (offener Kragen, Kurzarm, gemustert)",
       "original_price": 34.9,
       "price": 9.9,
@@ -1253,7 +1256,7 @@
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482483/item/eugoods_57_482483_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.610925+00:00",
+      "last_seen": "2026-09-12T09:20:46.567433+00:00",
       "name": "Hemd (offener Kragen, Kurzarm, gemustert)",
       "original_price": 34.9,
       "price": 9.9,
@@ -1328,7 +1331,7 @@
       "category": "pants",
       "discount": 67.7,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482886/item/eugoods_32_482886_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.610974+00:00",
+      "last_seen": "2026-09-12T09:20:46.567485+00:00",
       "name": "SMART 7/8 Hose",
       "original_price": 39.9,
       "price": 12.9,
@@ -1553,7 +1556,7 @@
       "category": "tops",
       "discount": 35.2,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/483970/item/eugoods_68_483970_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611510+00:00",
+      "last_seen": "2026-09-12T09:20:46.568112+00:00",
       "name": "DRY-EX T-Shirt (gemustert)",
       "original_price": 19.9,
       "price": 12.9,
@@ -1570,7 +1573,7 @@
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/483972/item/eugoods_66_483972_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611577+00:00",
+      "last_seen": "2026-09-12T09:20:46.568173+00:00",
       "name": "DRY Piqué Poloshirt (gemustert)",
       "original_price": 29.9,
       "price": 19.9,
@@ -1793,19 +1796,19 @@
       "url": "https://www.uniqlo.com/de/de/products/E484610-000/01?colorDisplayCode=57&sizeDisplayCode=004"
     },
     "E484662-000": {
-      "active": false,
+      "active": true,
       "category": "pants",
       "discount": 40.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/484662/item/eugoods_05_484662_3x4.jpg",
-      "last_seen": "2026-09-12T05:50:42.704053+00:00",
+      "last_seen": "2026-09-12T09:20:46.568005+00:00",
       "name": "Bundfaltenhose (Wide Fit, tapered)",
       "original_price": 49.9,
       "price": 29.9,
       "product_id": "E484662-000",
       "sizes": [
-        "L"
+        "M"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E484662-000/00?colorDisplayCode=05&sizeDisplayCode=005"
+      "url": "https://www.uniqlo.com/de/de/products/E484662-000/00?colorDisplayCode=05&sizeDisplayCode=004"
     },
     "E484663-001": {
       "active": false,
@@ -1842,7 +1845,7 @@
       "category": "tops",
       "discount": 56.9,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/484849/item/eugoods_10_484849_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611308+00:00",
+      "last_seen": "2026-09-12T09:20:46.567833+00:00",
       "name": "Oxford Hemd (boxy, Kurzarm)",
       "original_price": 29.9,
       "price": 12.9,
@@ -1859,7 +1862,7 @@
       "category": "tops",
       "discount": 56.9,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/484850/item/eugoods_52_484850_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611295+00:00",
+      "last_seen": "2026-09-12T09:20:46.567820+00:00",
       "name": "Oxford Hemd (boxy, gestreift)",
       "original_price": 29.9,
       "price": 12.9,
@@ -1874,7 +1877,7 @@
       "category": "tops",
       "discount": 56.9,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/484850001/item/eugoods_62_484850001_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611282+00:00",
+      "last_seen": "2026-09-12T09:20:46.567809+00:00",
       "name": "Oxford Hemd (boxy, gestreift)",
       "original_price": 29.9,
       "price": 12.9,
@@ -1935,7 +1938,7 @@
       "category": "tops",
       "discount": 57.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/484894/item/eugoods_64_484894_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611220+00:00",
+      "last_seen": "2026-09-12T09:20:46.567735+00:00",
       "name": "Hemd (Regular Fit, Button-Down-Kragen, kariert)",
       "original_price": 34.9,
       "price": 14.9,
@@ -1980,7 +1983,7 @@
       "category": "tops",
       "discount": 57.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/484928/item/eugoods_50_484928_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611206+00:00",
+      "last_seen": "2026-09-12T09:20:46.567722+00:00",
       "name": "Oxford Hemd (boxy)",
       "original_price": 34.9,
       "price": 14.9,
@@ -2042,7 +2045,7 @@
       "category": "tops",
       "discount": 57.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/485265/item/eugoods_10_485265_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611192+00:00",
+      "last_seen": "2026-09-12T09:20:46.567709+00:00",
       "name": "Oxford Hemd (boxy, gestreift)",
       "original_price": 34.9,
       "price": 14.9,
@@ -2104,7 +2107,7 @@
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/485565/item/eugoods_55_485565_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611561+00:00",
+      "last_seen": "2026-09-12T09:20:46.568159+00:00",
       "name": "DRY Piqué Poloshirt (gestreift)",
       "original_price": 29.9,
       "price": 19.9,
@@ -2136,7 +2139,7 @@
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/485567/item/eugoods_69_485567_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611546+00:00",
+      "last_seen": "2026-09-12T09:20:46.568144+00:00",
       "name": "DRY Piqué Poloshirt (gestreift)",
       "original_price": 29.9,
       "price": 19.9,
@@ -2198,7 +2201,7 @@
       "category": "tops",
       "discount": 57.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/485649/item/eugoods_01_485649_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611175+00:00",
+      "last_seen": "2026-09-12T09:20:46.567695+00:00",
       "name": "Hemd (Regular Fit, Button-Down-Kragen, kariert)",
       "original_price": 34.9,
       "price": 14.9,
@@ -2303,7 +2306,7 @@
       "category": "tops",
       "discount": 57.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/487680/item/eugoods_64_487680_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611157+00:00",
+      "last_seen": "2026-09-12T09:20:46.567681+00:00",
       "name": "Seersucker Hemd (Kurzarm, gestreift)",
       "original_price": 34.9,
       "price": 14.9,
@@ -2329,19 +2332,19 @@
       "url": "https://www.uniqlo.com/de/de/products/E487896-000/00?colorDisplayCode=05&sizeDisplayCode=005"
     },
     "E487897-000": {
-      "active": false,
+      "active": true,
       "category": "tops",
       "discount": 67.7,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/487897/item/eugoods_30_487897_3x4.jpg",
-      "last_seen": "2026-09-12T08:30:52.829719+00:00",
+      "last_seen": "2026-09-12T09:20:46.567474+00:00",
       "name": "Oxford Hemd (oversized, Kurzarm)",
       "original_price": 39.9,
       "price": 12.9,
       "product_id": "E487897-000",
       "sizes": [
-        "L"
+        "M"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E487897-000/00?colorDisplayCode=30&sizeDisplayCode=005"
+      "url": "https://www.uniqlo.com/de/de/products/E487897-000/00?colorDisplayCode=09&sizeDisplayCode=004"
     },
     "E487898-000": {
       "active": false,
@@ -2363,7 +2366,7 @@
       "category": "tops",
       "discount": 66.9,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/487899/item/eugoods_34_487899_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611014+00:00",
+      "last_seen": "2026-09-12T09:20:46.567515+00:00",
       "name": "DRY Piqué Poloshirt (Slim Fit, gestreift)",
       "original_price": 29.9,
       "price": 9.9,
@@ -2439,7 +2442,7 @@
       "category": "tops",
       "discount": 35.2,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489013/item/eugoods_67_489013_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.611475+00:00",
+      "last_seen": "2026-09-12T09:20:46.568081+00:00",
       "name": "DRY-EX T-Shirt",
       "original_price": 19.9,
       "price": 12.9,
@@ -2471,7 +2474,7 @@
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489136/item/eugoods_43_489136_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.610861+00:00",
+      "last_seen": "2026-09-12T09:20:46.567403+00:00",
       "name": "Hemd (Kurzarm, gemustert)",
       "original_price": 34.9,
       "price": 9.9,
@@ -2488,13 +2491,14 @@
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489137/item/eugoods_13_489137_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.610831+00:00",
+      "last_seen": "2026-09-12T09:20:46.567383+00:00",
       "name": "Hemd (Kurzarm, gemustert)",
       "original_price": 34.9,
       "price": 9.9,
       "product_id": "E489137-000",
       "sizes": [
-        "S"
+        "S",
+        "M"
       ],
       "url": "https://www.uniqlo.com/de/de/products/E489137-000/00?colorDisplayCode=13&sizeDisplayCode=003"
     },
@@ -2503,7 +2507,7 @@
       "category": "tops",
       "discount": 67.7,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489138/item/eugoods_41_489138_3x4.jpg",
-      "last_seen": "2026-09-12T09:15:43.610959+00:00",
+      "last_seen": "2026-09-12T09:20:46.567461+00:00",
       "name": "Oxford Hemd (oversized, Kurzarm, gemustert)",
       "original_price": 39.9,
       "price": 12.9,
