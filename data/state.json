@@ -1,7 +1,7 @@
 {
   "initialized": true,
   "last_error": {},
-  "last_scan_count": 297,
+  "last_scan_count": 321,
   "last_success_date": "2026-10-27",
   "products": {
     "E422992-000": {
@@ -296,7 +296,7 @@
       "category": "tops",
       "discount": 35.2,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/465185/item/eugoods_17_465185_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586880+00:00",
+      "last_seen": "2026-10-27T20:40:52.531837+00:00",
       "name": "AIRism Baumwolle T-Shirt (oversized, Rundhals)",
       "original_price": 19.9,
       "price": 12.9,
@@ -388,7 +388,7 @@
       "category": "jackets",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/469292/item/eugoods_17_469292_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586819+00:00",
+      "last_seen": "2026-10-27T20:40:52.531773+00:00",
       "name": "Verstaubarer Parka (UV-Schutz)",
       "original_price": 39.9,
       "price": 19.9,
@@ -735,7 +735,7 @@
       "category": "pants",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/479134/item/eugoods_69_479134_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586944+00:00",
+      "last_seen": "2026-10-27T20:40:52.531917+00:00",
       "name": "Easy 7/8 Hose (Stretch)",
       "original_price": 29.9,
       "price": 19.9,
@@ -900,7 +900,7 @@
       "category": "jackets",
       "discount": 14.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/479755/item/eugoods_69_479755_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.587019+00:00",
+      "last_seen": "2026-10-27T20:40:52.532016+00:00",
       "name": "PUFFERTECH Jacke",
       "original_price": 69.9,
       "price": 59.9,
@@ -1185,34 +1185,35 @@
       "url": "https://www.uniqlo.com/de/de/products/E482303-000/00?colorDisplayCode=00&sizeDisplayCode=003"
     },
     "E482304-000": {
-      "active": false,
+      "active": true,
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482304/item/eugoods_63_482304_3x4.jpg",
-      "last_seen": "2026-10-27T19:40:49.454646+00:00",
+      "last_seen": "2026-10-27T20:40:52.531907+00:00",
       "name": "DRY Piqué Poloshirt",
       "original_price": 29.9,
       "price": 19.9,
       "product_id": "E482304-000",
       "sizes": [
-        "S"
+        "S",
+        "L"
       ],
       "url": "https://www.uniqlo.com/de/de/products/E482304-000/00?colorDisplayCode=63&sizeDisplayCode=003"
     },
     "E482305-000": {
-      "active": false,
+      "active": true,
       "category": "tops",
       "discount": 56.9,
-      "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482305/item/eugoods_09_482305_3x4.jpg",
-      "last_seen": "2026-10-27T20:01:10.643027+00:00",
+      "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482305/item/eugoods_53_482305_3x4.jpg",
+      "last_seen": "2026-10-27T20:40:52.531736+00:00",
       "name": "DRY-EX Poloshirt",
       "original_price": 29.9,
       "price": 12.9,
       "product_id": "E482305-000",
       "sizes": [
-        "M"
+        "L"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E482305-000/00?colorDisplayCode=09&sizeDisplayCode=004"
+      "url": "https://www.uniqlo.com/de/de/products/E482305-000/00?colorDisplayCode=53&sizeDisplayCode=005"
     },
     "E482321-000": {
       "active": false,
@@ -1980,11 +1981,11 @@
       "url": "https://www.uniqlo.com/de/de/products/E484610-000/01?colorDisplayCode=57&sizeDisplayCode=003"
     },
     "E484613-000": {
-      "active": false,
+      "active": true,
       "category": "jackets",
       "discount": 69.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/484613/item/eugoods_69_484613_3x4.jpg",
-      "last_seen": "2026-10-27T09:05:43.977146+00:00",
+      "last_seen": "2026-10-27T20:40:52.531572+00:00",
       "name": "Mantel (einreihig)",
       "original_price": 129.9,
       "price": 39.9,
@@ -2241,7 +2242,7 @@
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/485265/item/eugoods_10_485265_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586648+00:00",
+      "last_seen": "2026-10-27T20:40:52.531561+00:00",
       "name": "Oxford Hemd (boxy, gestreift)",
       "original_price": 34.9,
       "price": 9.9,
@@ -2318,7 +2319,7 @@
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/485565/item/eugoods_55_485565_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586919+00:00",
+      "last_seen": "2026-10-27T20:40:52.531882+00:00",
       "name": "DRY Piqué Poloshirt (gestreift)",
       "original_price": 29.9,
       "price": 19.9,
@@ -2348,7 +2349,7 @@
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/485567/item/eugoods_69_485567_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586908+00:00",
+      "last_seen": "2026-10-27T20:40:52.531870+00:00",
       "name": "DRY Piqué Poloshirt (gestreift)",
       "original_price": 29.9,
       "price": 19.9,
@@ -2483,7 +2484,7 @@
       "category": "tops",
       "discount": 40.2,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/486103/item/eugoods_76_486103_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586830+00:00",
+      "last_seen": "2026-10-27T20:40:52.531784+00:00",
       "name": "AIRism Baumwolle Langarmshirt (Rundhals, gestreift)",
       "original_price": 24.9,
       "price": 14.9,
@@ -2513,7 +2514,7 @@
       "category": "jackets",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/486816/item/eugoods_38_486816_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586810+00:00",
+      "last_seen": "2026-10-27T20:40:52.531764+00:00",
       "name": "Utility Jacke",
       "original_price": 79.9,
       "price": 39.9,
@@ -2530,7 +2531,7 @@
       "category": "jackets",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/486817/item/eugoods_32_486817_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586802+00:00",
+      "last_seen": "2026-10-27T20:40:52.531756+00:00",
       "name": "Blouson (Kapuze)",
       "original_price": 79.9,
       "price": 39.9,
@@ -2622,7 +2623,7 @@
       "category": "jackets",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/487688/item/eugoods_31_487688_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586895+00:00",
+      "last_seen": "2026-10-27T20:40:52.531858+00:00",
       "name": "Jacke",
       "original_price": 59.9,
       "price": 39.9,
@@ -2725,19 +2726,19 @@
       "url": "https://www.uniqlo.com/de/de/products/E487899-000/00?colorDisplayCode=34&sizeDisplayCode=003"
     },
     "E487936-000": {
-      "active": false,
+      "active": true,
       "category": "jackets",
       "discount": 25.0,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/487936/item/eugoods_09_487936_3x4.jpg",
-      "last_seen": "2026-10-27T19:45:50.834847+00:00",
+      "last_seen": "2026-10-27T20:40:52.531982+00:00",
       "name": "Blouson (gefüttert, Stehkragen)",
       "original_price": 79.9,
       "price": 59.9,
       "product_id": "E487936-000",
       "sizes": [
-        "S"
+        "L"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E487936-000/00?colorDisplayCode=09&sizeDisplayCode=003"
+      "url": "https://www.uniqlo.com/de/de/products/E487936-000/00?colorDisplayCode=09&sizeDisplayCode=005"
     },
     "E487957-000": {
       "active": false,
@@ -2804,15 +2805,15 @@
       "category": "jackets",
       "discount": 36.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/488459/item/eugoods_08_488459_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586846+00:00",
+      "last_seen": "2026-10-27T20:40:52.531801+00:00",
       "name": "Mantel (oversized, lang, Kapuze)",
       "original_price": 109.9,
       "price": 69.9,
       "product_id": "E488459-000",
       "sizes": [
-        "S"
+        "L"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E488459-000/00?colorDisplayCode=33&sizeDisplayCode=003"
+      "url": "https://www.uniqlo.com/de/de/products/E488459-000/00?colorDisplayCode=08&sizeDisplayCode=005"
     },
     "E488599-000": {
       "active": false,
@@ -2849,22 +2850,23 @@
       "category": "tops",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/488801/item/eugoods_30_488801_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586791+00:00",
+      "last_seen": "2026-10-27T20:40:52.531747+00:00",
       "name": "Drape Hemd",
       "original_price": 39.9,
       "price": 19.9,
       "product_id": "E488801-000",
       "sizes": [
+        "M",
         "L"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E488801-000/00?colorDisplayCode=30&sizeDisplayCode=005"
+      "url": "https://www.uniqlo.com/de/de/products/E488801-000/00?colorDisplayCode=30&sizeDisplayCode=004"
     },
     "E488828-000": {
       "active": true,
       "category": "jackets",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/488828/item/eugoods_68_488828_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586888+00:00",
+      "last_seen": "2026-10-27T20:40:52.531845+00:00",
       "name": "Jeansjacke",
       "original_price": 59.9,
       "price": 39.9,
@@ -2958,7 +2960,7 @@
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489136/item/eugoods_43_489136_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586621+00:00",
+      "last_seen": "2026-10-27T20:40:52.531531+00:00",
       "name": "Hemd (Kurzarm, gemustert)",
       "original_price": 34.9,
       "price": 9.9,
@@ -2988,7 +2990,7 @@
       "category": "tops",
       "discount": 67.7,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489138/item/eugoods_41_489138_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586662+00:00",
+      "last_seen": "2026-10-27T20:40:52.531584+00:00",
       "name": "Oxford Hemd (oversized, Kurzarm, gemustert)",
       "original_price": 39.9,
       "price": 12.9,
@@ -3018,7 +3020,7 @@
       "category": "jackets",
       "discount": 25.0,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489482/item/eugoods_33_489482_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586990+00:00",
+      "last_seen": "2026-10-27T20:40:52.531972+00:00",
       "name": "Harrington Jacke (Wollmix)",
       "original_price": 79.9,
       "price": 59.9,
@@ -3035,7 +3037,7 @@
       "category": "jackets",
       "discount": 25.0,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489492/item/eugoods_19_489492_3x4.jpg",
-      "last_seen": "2026-10-27T20:35:46.586982+00:00",
+      "last_seen": "2026-10-27T20:40:52.531955+00:00",
       "name": "Hemdjacke (gefüttert)",
       "original_price": 79.9,
       "price": 59.9,
