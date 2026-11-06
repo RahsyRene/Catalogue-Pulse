@@ -1,7 +1,7 @@
 {
   "initialized": true,
   "last_error": {},
-  "last_scan_count": 293,
+  "last_scan_count": 294,
   "last_success_date": "2026-11-06",
   "products": {
     "E422992-000": {
@@ -41,7 +41,7 @@
       "category": "jackets",
       "discount": 28.7,
       "image_url": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/450195/item/goods_32_450195_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512135+00:00",
+      "last_seen": "2026-11-06T07:50:49.633720+00:00",
       "name": "Fleece Jacke",
       "original_price": 34.9,
       "price": 24.9,
@@ -398,7 +398,7 @@
       "url": "https://www.uniqlo.com/de/de/products/E467504-000/00?colorDisplayCode=52&sizeDisplayCode=005"
     },
     "E469292-000": {
-      "active": true,
+      "active": false,
       "category": "jackets",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/469292/item/eugoods_17_469292_3x4.jpg",
@@ -432,7 +432,7 @@
       "category": "jackets",
       "discount": 28.7,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/469956/item/eugoods_31_469956_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512128+00:00",
+      "last_seen": "2026-11-06T07:50:49.633712+00:00",
       "name": "Fleece Jacke (Colourblocking)",
       "original_price": 34.9,
       "price": 24.9,
@@ -942,7 +942,7 @@
       "category": "jackets",
       "discount": 14.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/479755/item/eugoods_69_479755_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512261+00:00",
+      "last_seen": "2026-11-06T07:50:49.633886+00:00",
       "name": "PUFFERTECH Jacke",
       "original_price": 69.9,
       "price": 59.9,
@@ -1186,7 +1186,7 @@
       "category": "tops",
       "discount": 50.3,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482299/item/eugoods_51_482299_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511904+00:00",
+      "last_seen": "2026-11-06T07:50:49.633483+00:00",
       "name": "DRY-EX T-Shirt",
       "original_price": 19.9,
       "price": 9.9,
@@ -1231,7 +1231,7 @@
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482304/item/eugoods_63_482304_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512097+00:00",
+      "last_seen": "2026-11-06T07:50:49.633679+00:00",
       "name": "DRY Piqué Poloshirt",
       "original_price": 29.9,
       "price": 19.9,
@@ -1288,19 +1288,19 @@
       "url": "https://www.uniqlo.com/de/de/products/E482438-000/00?colorDisplayCode=08&sizeDisplayCode=004"
     },
     "E482443-000": {
-      "active": false,
+      "active": true,
       "category": "jackets",
       "discount": 74.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482443/item/eugoods_38_482443_3x4.jpg",
-      "last_seen": "2026-10-19T09:50:52.544278+00:00",
+      "last_seen": "2026-11-06T07:50:49.633279+00:00",
       "name": "Baumwolle Leinen Hemdjacke",
       "original_price": 49.9,
       "price": 12.9,
       "product_id": "E482443-000",
       "sizes": [
-        "L"
+        "M"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E482443-000/00?colorDisplayCode=38&sizeDisplayCode=005"
+      "url": "https://www.uniqlo.com/de/de/products/E482443-000/00?colorDisplayCode=38&sizeDisplayCode=004"
     },
     "E482452-000": {
       "active": false,
@@ -1442,7 +1442,7 @@
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/482483/item/eugoods_57_482483_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511754+00:00",
+      "last_seen": "2026-11-06T07:50:49.633348+00:00",
       "name": "Hemd (offener Kragen, Kurzarm, gemustert)",
       "original_price": 34.9,
       "price": 9.9,
@@ -2072,7 +2072,7 @@
       "category": "tops",
       "discount": 56.9,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/484849/item/eugoods_10_484849_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511787+00:00",
+      "last_seen": "2026-11-06T07:50:49.633371+00:00",
       "name": "Oxford Hemd (boxy, Kurzarm)",
       "original_price": 29.9,
       "price": 12.9,
@@ -2269,7 +2269,7 @@
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/485265/item/eugoods_10_485265_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511739+00:00",
+      "last_seen": "2026-11-06T07:50:49.633336+00:00",
       "name": "Oxford Hemd (boxy, gestreift)",
       "original_price": 34.9,
       "price": 9.9,
@@ -2376,7 +2376,7 @@
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/485567/item/eugoods_69_485567_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512071+00:00",
+      "last_seen": "2026-11-06T07:50:49.633653+00:00",
       "name": "DRY Piqué Poloshirt (gestreift)",
       "original_price": 29.9,
       "price": 19.9,
@@ -2542,15 +2542,17 @@
       "category": "jackets",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/486816/item/eugoods_38_486816_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511936+00:00",
+      "last_seen": "2026-11-06T07:50:49.633517+00:00",
       "name": "Utility Jacke",
       "original_price": 79.9,
       "price": 39.9,
       "product_id": "E486816-000",
       "sizes": [
+        "S",
+        "M",
         "L"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E486816-000/00?colorDisplayCode=09&sizeDisplayCode=005"
+      "url": "https://www.uniqlo.com/de/de/products/E486816-000/00?colorDisplayCode=09&sizeDisplayCode=003"
     },
     "E486817-000": {
       "active": false,
@@ -2602,7 +2604,7 @@
       "category": "jackets",
       "discount": 20.0,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/487488/item/eugoods_57_487488_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512230+00:00",
+      "last_seen": "2026-11-06T07:50:49.633837+00:00",
       "name": "Merinowollmix Strickjacke",
       "original_price": 49.9,
       "price": 39.9,
@@ -2664,7 +2666,7 @@
       "category": "jackets",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/487688/item/eugoods_31_487688_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512057+00:00",
+      "last_seen": "2026-11-06T07:50:49.633640+00:00",
       "name": "Jacke",
       "original_price": 59.9,
       "price": 39.9,
@@ -2681,7 +2683,7 @@
       "category": "jackets",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/487846/item/eugoods_39_487846_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511928+00:00",
+      "last_seen": "2026-11-06T07:50:49.633507+00:00",
       "name": "Hemdjacke (Relaxed Fit, beschichtet)",
       "original_price": 79.9,
       "price": 39.9,
@@ -2787,7 +2789,7 @@
       "category": "pants",
       "discount": 50.1,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/487957/item/eugoods_01_487957_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511919+00:00",
+      "last_seen": "2026-11-06T07:50:49.633497+00:00",
       "name": "SMART Bundfaltenhose (Wide Fit)",
       "original_price": 39.9,
       "price": 19.9,
@@ -2847,7 +2849,7 @@
       "category": "jackets",
       "discount": 36.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/488459/item/eugoods_33_488459_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511965+00:00",
+      "last_seen": "2026-11-06T07:50:49.633539+00:00",
       "name": "Mantel (oversized, lang, Kapuze)",
       "original_price": 109.9,
       "price": 69.9,
@@ -2858,11 +2860,11 @@
       "url": "https://www.uniqlo.com/de/de/products/E488459-000/00?colorDisplayCode=33&sizeDisplayCode=005"
     },
     "E488599-000": {
-      "active": false,
+      "active": true,
       "category": "jackets",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/488599/item/eugoods_09_488599_3x4.jpg",
-      "last_seen": "2026-11-06T07:40:49.756395+00:00",
+      "last_seen": "2026-11-06T07:50:49.633632+00:00",
       "name": "Velours Blouson (Reißverschluss)",
       "original_price": 59.9,
       "price": 39.9,
@@ -2870,14 +2872,14 @@
       "sizes": [
         "M"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E488599-000/00?colorDisplayCode=09&sizeDisplayCode=004"
+      "url": "https://www.uniqlo.com/de/de/products/E488599-000/00?colorDisplayCode=38&sizeDisplayCode=004"
     },
     "E488605-000": {
       "active": true,
       "category": "tops",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/488605/item/eugoods_08_488605_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512045+00:00",
+      "last_seen": "2026-11-06T07:50:49.633620+00:00",
       "name": "Langarmshirt (Stehkragen)",
       "original_price": 29.9,
       "price": 19.9,
@@ -2909,7 +2911,7 @@
       "category": "jackets",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/488828/item/eugoods_68_488828_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512034+00:00",
+      "last_seen": "2026-11-06T07:50:49.633609+00:00",
       "name": "Jeansjacke",
       "original_price": 59.9,
       "price": 39.9,
@@ -3003,7 +3005,7 @@
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489136/item/eugoods_43_489136_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511710+00:00",
+      "last_seen": "2026-11-06T07:50:49.633318+00:00",
       "name": "Hemd (Kurzarm, gemustert)",
       "original_price": 34.9,
       "price": 9.9,
@@ -3033,7 +3035,7 @@
       "category": "tops",
       "discount": 67.7,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489138/item/eugoods_41_489138_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.511771+00:00",
+      "last_seen": "2026-11-06T07:50:49.633360+00:00",
       "name": "Oxford Hemd (oversized, Kurzarm, gemustert)",
       "original_price": 39.9,
       "price": 12.9,
@@ -3064,7 +3066,7 @@
       "category": "jackets",
       "discount": 25.0,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489482/item/eugoods_33_489482_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512194+00:00",
+      "last_seen": "2026-11-06T07:50:49.633772+00:00",
       "name": "Harrington Jacke (Wollmix)",
       "original_price": 79.9,
       "price": 59.9,
@@ -3081,7 +3083,7 @@
       "category": "jackets",
       "discount": 25.0,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/489492/item/eugoods_19_489492_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512186+00:00",
+      "last_seen": "2026-11-06T07:50:49.633764+00:00",
       "name": "Hemdjacke (gefüttert)",
       "original_price": 79.9,
       "price": 59.9,
@@ -3124,26 +3126,26 @@
       "url": "https://www.uniqlo.com/de/de/products/E491001-000/00?colorDisplayCode=67&sizeDisplayCode=004"
     },
     "E491002-000": {
-      "active": false,
+      "active": true,
       "category": "tops",
       "discount": 71.6,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/491002/item/eugoods_09_491002_3x4.jpg",
-      "last_seen": "2026-10-29T10:10:51.035067+00:00",
+      "last_seen": "2026-11-06T07:50:49.633303+00:00",
       "name": "Jason Polan UT Sweatshirt",
       "original_price": 34.9,
       "price": 9.9,
       "product_id": "E491002-000",
       "sizes": [
-        "S"
+        "M"
       ],
-      "url": "https://www.uniqlo.com/de/de/products/E491002-000/00?colorDisplayCode=09&sizeDisplayCode=003"
+      "url": "https://www.uniqlo.com/de/de/products/E491002-000/00?colorDisplayCode=09&sizeDisplayCode=004"
     },
     "E491268-000": {
       "active": true,
       "category": "pants",
       "discount": 33.4,
       "image_url": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/491268/item/eugoods_19_491268_3x4.jpg",
-      "last_seen": "2026-11-06T07:45:46.512026+00:00",
+      "last_seen": "2026-11-06T07:50:49.633601+00:00",
       "name": "Fleece Jogginghose",
       "original_price": 29.9,
       "price": 19.9,
